@@ -4,6 +4,8 @@ Simple simulation in R showing the central limit theorem.
 ## Overview
 This project demonstrates the Central Limit Theorem (CLT) through a simulation using the R programming language. It generates random samples from a chi-square distribution and examines how the sample mean distribution converges to a normal distribution as the sample size increases.
 
+Report (in Polish) available [here](https://github.com/kasiabeben10/probability-and-statistics-clt-project/tree/main/report.pdf).
+
 ## Central Limit Theorem (CLT)
 The CLT states that if we have a large enough sample size from any population with a finite mean $\mu\$ and variance $\sigma^2\$, the distribution of the sample mean will tend to follow a normal distribution $N(0,1)$, regardless of the original population distribution.
 
